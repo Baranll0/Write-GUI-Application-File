@@ -10,8 +10,8 @@ public class Person implements ActionListener {
     JTextField bolum =new JTextField();
     JTextField userName=new JTextField();
     JPasswordField password=new JPasswordField();
-    JLabel nameLabel=new JLabel("Ad:");
-    JLabel bolumLabel=new JLabel("Soyad:");
+    JLabel nameLabel=new JLabel("Ad Soyad: ");
+    JLabel bolumLabel=new JLabel("Bolum: ");
     JLabel userNameLabel=new JLabel("Kullanici Adi");
     JLabel passwordLabel=new JLabel("Sifre");
     JButton signUpButton=new JButton("Giris Yap");
