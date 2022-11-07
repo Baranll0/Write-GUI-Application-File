@@ -1,0 +1,4 @@
+Kullanici Adi: baranguclu
+Sifre: 1234
+Ad:: baran
+Soyad:: Guclu
