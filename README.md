@@ -3,9 +3,9 @@
 <pre><p>In my application, I am using Swing to perform the task of saving user input a text file.<br>To accomplish this,I am utilizing Java's Object-Oriented Programming capabilities.<br></p></pre>
 <hr>
 <h2>Tech I use:</h2>
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" width="50" height="50">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/837a7c42714572f343238a9110f2aa7ccebf9ea5/topics/swing/swing.png" width="50" height="50">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" width="50" height="50"><br><br>
 <hr>
 <h2>Features offered in this application: </h2>
 <pre>Username,<br></pre>
